@@ -3,6 +3,7 @@
 A voice-driven desktop AI agent for Windows. Say "hey Jarvis" and it plans with a language model, then acts through 90+ tools: its own browser window, the desktop, files, email drafts, calendar and scheduled sub-agents.
 
 **Live demo (runs in your browser): https://ram-balasubramani.vercel.app/demo**
+
 Case study: https://ram-balasubramani.vercel.app/work/jarvis
 
 ![The Jarvis screen](assets/hud.png)
